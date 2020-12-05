@@ -7,16 +7,8 @@ For more information on this file, see
 https://docs.djangoproject.com/en/3.1/howto/deployment/asgi/
 """
 
-<<<<<<< HEAD
 
-import os, sys
-import os, copy
-=======
-import os, sys
-
-import json
-
->>>>>>> 678af1f4e0fb1590bb857259505b5014789bb641
+import os
 
 from django.core.asgi import get_asgi_application
 
